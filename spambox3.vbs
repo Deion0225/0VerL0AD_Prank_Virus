@@ -1,0 +1,1 @@
+z=MsgBox("Did you know it only took me one day to code this virus up?" , vbYesNo + vbQuestion, "0VerL0AD")
