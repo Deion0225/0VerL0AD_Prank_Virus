@@ -19,6 +19,4 @@ goto a
  start spambox3.vbs
  start spambox4.vbs
  start dds.vbs
-md %random%
-/folder.
 goto b
